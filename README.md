@@ -1,9 +1,10 @@
-Run tests
-=========
+# Groovy Spock framework
 
-Groovy Spock framework
+Example code from blog post: http://moduslaborandi.net/groovy-101-grape-and-tests-with-spock/
 
-groovy FizzBuzzSpec.groovy
+## Run tests
+
+    groovy FizzBuzzSpec.groovy
 
 ## Travis status
 
